@@ -1,0 +1,73 @@
+.body{
+  background-color: #fff8cd;
+}
+.cookie{
+  position: absolute;
+  float:left;
+  width: 300px;
+  z-index: 2;
+}
+.score{
+  display: inline-block;
+  position: absolute;
+  border: solid 3px;
+  padding-right: 100px;
+  left:350px;
+}
+.pressed {
+  box-shadow: 0 0 20px white;
+  background-color: grey;
+}
+.ckbt{
+  position: absolute;
+  top: 50px;
+}
+.rebirth{
+  position: absolute;
+  top: 40px;
+  left: 600px;
+}
+.knopka{
+  position: absolute;
+  top: 150px;
+}
+.knop{
+  position: absolute;
+  top: 150px;
+  left: 94%;
+  visibility:hidden;
+}
+.kno{
+  position: absolute;
+  top: 260px;
+}
+.knopk{
+  position: absolute;
+  top: 260px;
+  left: 300px;
+}
+.kn{
+  position: absolute;
+  top: 40px;
+  left: 300px;
+}
+.k{
+  position: absolute;
+  top: 150px;
+  left: 300px;
+}
+.scores{
+  padding-right: 50px;
+}
+.bonus{
+  background-color: #d2f5e3;
+  position: absolute;
+  top: 400px;
+  color: #bb2205;
+}
+.bonu{
+  background-color: #d2f5e3;
+  position: absolute;
+  top: 450px;
+  color: #bb2205;
+}
